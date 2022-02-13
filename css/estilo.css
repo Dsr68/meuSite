@@ -1,5 +1,10 @@
 /*Cabeçalho*/
 
+body{
+    min-width: 584px;
+    min-height: 480px;
+}
+
 header{
     background-color: grey;
     display: flex;
