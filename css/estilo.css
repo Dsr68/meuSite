@@ -1,0 +1,29 @@
+/*Cabeçalho*/
+
+header{
+    background-color: grey;
+    display: flex;
+}
+
+#rosto{
+    width: 100px;
+    height: 100%;
+}
+
+#dados{
+    margin-left: 10px;
+}
+
+.dados{
+    font-size: 8px;
+}
+
+/*Corpo*/
+
+#corpo{
+    margin: 25px;
+}
+
+p{
+    font-style: italic;
+}
